@@ -85,5 +85,5 @@ public class FormularioPrincipal extends JFrame {
         }
 
         tabla.setModel(modelo);
-    }   
+    }
 }
