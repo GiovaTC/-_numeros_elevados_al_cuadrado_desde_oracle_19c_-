@@ -16,7 +16,7 @@ public class NumeroDAO {
         List<NumeroCuadrado> lista = new ArrayList<>();
 
         String sql = "SELECT NUMERO,CUADRADO " +
-                    "FROM NUMEROS_CUADRADO_S" +
+                    "FROM NUMEROS_CUADRADO_S " +
                     "ORDER BY NUMERO";
 
         try (

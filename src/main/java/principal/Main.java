@@ -14,4 +14,4 @@ public class Main {
                     .setVisible(true);
         });
     }
-}   
+}
