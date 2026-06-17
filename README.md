@@ -1,7 +1,9 @@
 # -_numeros_elevados_al_cuadrado_desde_oracle_19c_- :.
 Proyecto Java 21 + IntelliJ IDEA + Swing + Oracle Database 19c:
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/20770068-1161-4503-962d-55ace549529d" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/20770068-1161-4503-962d-55ace549529d" />    
+
+<img width="2548" height="1076" alt="image" src="https://github.com/user-attachments/assets/40486ab5-5e39-46cc-91f5-f893b797cb5b" />    
 
 ```
 Números Elevados al Cuadrado desde Oracle 19c
